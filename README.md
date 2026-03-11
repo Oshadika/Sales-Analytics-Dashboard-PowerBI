@@ -27,4 +27,4 @@ The dashboard helps track sales performance by comparing actual sales against pr
 
 
 ## Author
-OShadika De Silva
+Oshadika De Silva
